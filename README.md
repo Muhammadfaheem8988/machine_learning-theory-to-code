@@ -48,7 +48,7 @@ If you find these notebooks helpful, consider starring the repository to support
 
 - **GitHub:** [Muhammad Faheem](https://github.com/Muhammadfaheem8988)
 - **Kaggle:** [Kaggle](https://www.kaggle.com/muhammadf4h33m)
-
+- **Linkedin** [Muhammad Faheem](www.linkedin.com/in/muhammad-faheem-b0b1b2290)
 
 ## A Note From Me
 
