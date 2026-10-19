@@ -23,7 +23,7 @@ The notebooks follow a beginner-friendly progression, starting with ML fundament
 | # | Topic | Notebook | Status |
 |---|---|---|---|
 | 01 | Machine Learning Foundations | [Open Notebook](notebooks/01_machine_learning_foundations.ipynb) | Available |
-| 02 | Coming Soon | — | Planned |
+| 02 | ML Challenges And Industry Applications | [Open Notebook](notebooks/02_ml_challenges_and_industry_applications.ipynb) | Available |
 
 More notebooks will be added progressively.
 
