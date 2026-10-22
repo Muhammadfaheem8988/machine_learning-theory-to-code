@@ -24,6 +24,7 @@ The notebooks follow a beginner-friendly progression, starting with ML fundament
 |---|---|---|---|
 | 01 | Machine Learning Foundations | [Open Notebook](notebooks/01_machine_learning_foundations.ipynb) | Available |
 | 02 | ML Challenges And Industry Applications | [Open Notebook](notebooks/02_ml_challenges_and_industry_applications.ipynb) | Available |
+| 03 | MLDLC Problem Framing and toy pipeline | [Open Notebook](notebooks/03_MLDLC_problem_framing_and_toy_pipeline.ipynb) | Available |
 
 More notebooks will be added progressively.
 
