@@ -20,12 +20,14 @@ The notebooks follow a beginner-friendly progression, starting with ML fundament
 
 ## Notebook Series
 
-| # | Topic | Notebook | Status |
-|---|---|---|---|
-| 01 | Machine Learning Foundations | [Open Notebook](notebooks/01_machine_learning_foundations.ipynb) | Available |
-| 02 | ML Challenges And Industry Applications | [Open Notebook](notebooks/02_ml_challenges_and_industry_applications.ipynb) | Available |
-| 03 | MLDLC Problem Framing and toy pipeline | [Open Notebook](notebooks/03_MLDLC_problem_framing_and_toy_pipeline.ipynb) | Available |
-| 04 | Multi-Dimensional Tensor Data Representation | [Open Notebook](notebooks/04_multi_dimensional_tensor_data_representation.ipynb) | Available |
+| # | Topic | Notebook | Kaggle | Status |
+|---|---|---|---|---|
+| 01 | Machine Learning Foundations | [Open Notebook](notebooks/01_machine_learning_foundations.ipynb) | [View on Kaggle](https://www.kaggle.com/code/muhammadf4h33m/01-machine-learning-foundations) | Available |
+| 02 | ML Challenges And Industry Applications | [Open Notebook](notebooks/02_ml_challenges_and_industry_applications.ipynb) | Not published yet | Available |
+| 03 | MLDLC Problem Framing and toy pipeline | [Open Notebook](notebooks/03_MLDLC_problem_framing_and_toy_pipeline.ipynb) | Not published yet | Available |
+| 04 | Multi-Dimensional Tensor Data Representation | [Open Notebook](notebooks/04_multi_dimensional_tensor_data_representation.ipynb) | Not published yet | Available |
+
+**Recommended:** View the notebooks on Kaggle when available. Run the code, change the inputs, and experiment to see how the results change and understand each concept more clearly.
 
 More notebooks will be added progressively.
 
