@@ -27,6 +27,7 @@ The notebooks follow a beginner-friendly progression, starting with ML fundament
 | 03 | MLDLC Problem Framing and toy pipeline | [Open Notebook](notebooks/03_MLDLC_problem_framing_and_toy_pipeline.ipynb) | [View on Kaggle](https://www.kaggle.com/code/muhammadf4h33m/03-mldlc-problem-framing-and-toy-pipeline) | Available |
 | 04 | Multi-Dimensional Tensor Data Representation | [Open Notebook](notebooks/04_multi_dimensional_tensor_data_representation.ipynb) | [View on Kaggle](https://www.kaggle.com/code/muhammadf4h33m/04-multi-dimensional-tensor-data-representation) | Available |
 | 05 | Data Gathering: APIs and Web Scraping | [Open Notebook](notebooks/05_data_gathering_apis_and_scraping.ipynb) | [View on Kaggle](https://www.kaggle.com/code/muhammadf4h33m/05-data-gathering-apis-and-scraping) | Available |
+| 06 | Exploratory Data Analysis | [Open Notebook](notebooks/06_exploratory_data_analysis.ipynb) | [View on Kaggle](https://www.kaggle.com/code/muhammadf4h33m/06-exploratory-data-analysis) | Available |
 
 **Recommended:** View the notebooks on Kaggle when available. Run the code, change the inputs, and experiment to see how the results change and understand each concept more clearly.
 
